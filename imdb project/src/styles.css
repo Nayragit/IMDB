@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+#mainContent {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+#container {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+  padding: 2rem;
+  border-radius: 10%;
+  width: 50%;
+  height: 100%;
+}
+
+#showFavBtn {
+  background-color: lightblue;
+  border: 0;
+}
